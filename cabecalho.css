@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #667085;
+    padding: 0 1rem ;
+}
+.cabecalho__botao{
+    color: white;
+    background-color:#8E2424 ;
+    padding: 10px;
+    border-radius: 10px;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+section{
+
+}
